@@ -1,0 +1,20 @@
+[1mdiff --git a/Example02.md b/Example02.md[m
+[1mindex f8b912e..a7c4061 100644[m
+[1m--- a/Example02.md[m
+[1m+++ b/Example02.md[m
+[36m@@ -1 +1 @@[m
+[31m-this is new test[m
+[32m+[m[32mthis is new test![m
+[1mdiff --git a/example.md b/example.md[m
+[1mindex 36a1dfa..2b37d38 100644[m
+[1m--- a/example.md[m
+[1m+++ b/example.md[m
+[36m@@ -1,2 +1,5 @@[m
+ this is acontent[m
+[31m-this is an extra line[m
+\ No newline at end of file[m
+[32m+[m[32mthis is an extra line[m
+[32m+[m
+[32m+[m
+[32m+[m[32manother small change[m
+\ No newline at end of file[m
